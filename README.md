@@ -4,9 +4,9 @@ A daily curated reading list for software engineers — distributed systems, Jav
 
 ## About this repo
 
-Each day's digest is **curated by an AI assistant** working for the repo owner. Entries are picked from recently published engineering writing and selected for substance: production lessons, real numbers, ideas you can actually use.
+A daily reading list for software engineers. Entries are picked from recently published engineering writing and selected for substance: production lessons, real numbers, ideas you can actually use.
 
-Every entry links to the original source. The summaries are the curator's own take on why a piece is worth your time — all credit for the content belongs to the original authors.
+Every entry links to the original source. Summaries give the curator's take on why a piece is worth your time — all credit for the content belongs to the original authors.
 
 ## Digests
 
