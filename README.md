@@ -12,6 +12,7 @@ Every entry links to the original source. Summaries give the curator's take on w
 
 | Date | Highlights |
 |------|-----------|
+| [2026-10-10](digests/2026-10-10.md) | Uber tames retry storms; MongoDB's disaggregated storage; virtual-thread pitfalls; pgvector CVE fix |
 | [2026-10-09](digests/2026-10-09.md) | Netflix on service topology at scale; distributed-systems lessons for agentic AI; JVM GC tuning for Spring Boot |
 
 ## How curation works
