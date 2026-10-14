@@ -12,6 +12,7 @@ Every entry links to the original source. Summaries give the curator's take on w
 
 | Date | Highlights |
 |------|-----------|
+| [2026-10-14](digests/2026-10-14.md) | postmortems, GPU waste, RAG ingestion |
 | [2026-10-13](digests/2026-10-13.md) | GitHub Actions outage, celld edge runtime, RAG retrieval |
 | [2026-10-12](digests/2026-10-12.md) | postmortems, GPU waste, RAG hardening |
 | [2026-10-11](digests/2026-10-11.md) | postmortems, DDoS waves, agent guardrails, Spring startup |
