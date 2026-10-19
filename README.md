@@ -12,6 +12,7 @@ Every entry links to the original source. Summaries give the curator's take on w
 
 | Date | Highlights |
 |------|-----------|
+| [2026-10-19](digests/2026-10-19.md) | virtual-thread pitfalls, RAG benchmarks, K8s cost war |
 | [2026-10-18](digests/2026-10-18.md) | retry storms, K8s cost PRs, RAG evals |
 | [2026-10-17](digests/2026-10-17.md) | Firebase outage, Java 25 migration, production RAG |
 | [2026-10-16](digests/2026-10-16.md) | CircleCI outage, parallelStream, RAG retrieval |
