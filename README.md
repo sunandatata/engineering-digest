@@ -12,6 +12,7 @@ Every entry links to the original source. Summaries give the curator's take on w
 
 | Date | Highlights |
 |------|-----------|
+| [2026-10-21](digests/2026-10-21.md) | 5M-row limits, fleet migration, inference scale |
 | [2026-10-20](digests/2026-10-20.md) | Kafka replay traps, K8s cost cuts, agent guardrails |
 | [2026-10-19](digests/2026-10-19.md) | virtual-thread pitfalls, RAG benchmarks, K8s cost war |
 | [2026-10-18](digests/2026-10-18.md) | retry storms, K8s cost PRs, RAG evals |
