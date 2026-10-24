@@ -12,6 +12,7 @@ Every entry links to the original source. Summaries give the curator's take on w
 
 | Date | Highlights |
 |------|-----------|
+| [2026-10-24](digests/2026-10-24.md) | EC2 recovery, cache isolation, RAG routing |
 | [2026-10-23](digests/2026-10-23.md) | failure radius, rotation traps, RAG evidence |
 | [2026-10-22](digests/2026-10-22.md) | failure radius, rotation traps, GPU cuts |
 | [2026-10-21](digests/2026-10-21.md) | 5M-row limits, fleet migration, inference scale |
