@@ -12,6 +12,7 @@ Every entry links to the original source. Summaries give the curator's take on w
 
 | Date | Highlights |
 |------|-----------|
+| [2026-10-26](digests/2026-10-26.md) | GPU failures, GC p99, RAG audits |
 | [2026-10-25](digests/2026-10-25.md) | bus factor, HikariCP outage, RAG reranking |
 | [2026-10-24](digests/2026-10-24.md) | EC2 recovery, cache isolation, RAG routing |
 | [2026-10-23](digests/2026-10-23.md) | failure radius, rotation traps, RAG evidence |
