@@ -12,6 +12,7 @@ Every entry links to the original source. Summaries give the curator's take on w
 
 | Date | Highlights |
 |------|-----------|
+| [2026-10-29](digests/2026-10-29.md) | retry storms, Boot 4 migration, RAG evals |
 | [2026-10-28](digests/2026-10-28.md) | measure before scaling, Spring habits, RAG facts |
 | [2026-10-27](digests/2026-10-27.md) | rotation traps, K8s migration, RAG reranking |
 | [2026-10-26](digests/2026-10-26.md) | GPU failures, GC p99, RAG audits |
