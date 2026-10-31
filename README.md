@@ -12,6 +12,7 @@ Every entry links to the original source. Summaries give the curator's take on w
 
 | Date | Highlights |
 |------|-----------|
+| [2026-10-31](digests/2026-10-31.md) | retry storms, thread pools, rollout traps |
 | [2026-10-30](digests/2026-10-30.md) | coupling, overload, RAG reality |
 | [2026-10-29](digests/2026-10-29.md) | retry storms, Boot 4 migration, RAG evals |
 | [2026-10-28](digests/2026-10-28.md) | measure before scaling, Spring habits, RAG facts |
