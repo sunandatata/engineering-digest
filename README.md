@@ -12,6 +12,7 @@ Every entry links to the original source. Summaries give the curator's take on w
 
 | Date | Highlights |
 |------|-----------|
+| [2026-11-02](digests/2026-11-02.md) | inference bottlenecks, Boot 4, RAG retrieval |
 | [2026-11-01](digests/2026-11-01.md) | rollback traps, K8s upgrades, RAG |
 | [2026-10-31](digests/2026-10-31.md) | retry storms, thread pools, rollout traps |
 | [2026-10-30](digests/2026-10-30.md) | coupling, overload, RAG reality |
