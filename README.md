@@ -12,6 +12,7 @@ Every entry links to the original source. Summaries give the curator's take on w
 
 | Date | Highlights |
 |------|-----------|
+| [2026-11-05](digests/2026-11-05.md) | retry budgets, Spring proxies, production RAG |
 | [2026-11-04](digests/2026-11-04.md) | invariants, rollout traps, RAG privacy |
 | [2026-11-03](digests/2026-11-03.md) | dual-write, Spring prod bugs, RAG reranking |
 | [2026-11-02](digests/2026-11-02.md) | inference bottlenecks, Boot 4, RAG retrieval |
