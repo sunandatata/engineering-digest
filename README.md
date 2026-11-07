@@ -12,6 +12,7 @@ Every entry links to the original source. Summaries give the curator's take on w
 
 | Date | Highlights |
 |------|-----------|
+| [2026-11-07](digests/2026-11-07.md) | metastable failures, outbox limits, RAG evals |
 | [2026-11-06](digests/2026-11-06.md) | cascading failures, CAP trade-offs, EKS scale |
 | [2026-11-05](digests/2026-11-05.md) | retry budgets, Spring proxies, production RAG |
 | [2026-11-04](digests/2026-11-04.md) | invariants, rollout traps, RAG privacy |
