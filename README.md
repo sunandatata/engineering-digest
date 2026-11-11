@@ -12,6 +12,8 @@ Every entry links to the original source. Summaries give the curator's take on w
 
 | Date | Highlights |
 |------|-----------|
+| [2026-11-11](digests/2026-11-11.md) | invariants, transaction traps, RAG trust |
+| [2026-11-10](digests/2026-11-10.md) | scaling overload, cache stampedes, Azure bill |
 | [2026-11-09](digests/2026-11-09.md) | idempotency, pool limits, idle fleets |
 | [2026-11-08](digests/2026-11-08.md) | progressive collapse, live config, measured RAG |
 | [2026-11-07](digests/2026-11-07.md) | metastable failures, outbox limits, RAG evals |
