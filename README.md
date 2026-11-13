@@ -12,6 +12,7 @@ Every entry links to the original source. Summaries give the curator's take on w
 
 | Date | Highlights |
 |------|-----------|
+| [2026-11-12](digests/2026-11-12.md) | expired leases, pool sizing, RAG upkeep |
 | [2026-11-11](digests/2026-11-11.md) | invariants, transaction traps, RAG trust |
 | [2026-11-10](digests/2026-11-10.md) | scaling overload, cache stampedes, Azure bill |
 | [2026-11-09](digests/2026-11-09.md) | idempotency, pool limits, idle fleets |
