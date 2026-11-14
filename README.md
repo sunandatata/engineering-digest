@@ -12,6 +12,7 @@ Every entry links to the original source. Summaries give the curator's take on w
 
 | Date | Highlights |
 |------|-----------|
+| [2026-11-14](digests/2026-11-14.md) | pool sizing, K8s bills, RAG ceiling |
 | [2026-11-13](digests/2026-11-13.md) | silent failures, hidden bills, RAG ceiling |
 | [2026-11-12](digests/2026-11-12.md) | expired leases, pool sizing, RAG upkeep |
 | [2026-11-11](digests/2026-11-11.md) | invariants, transaction traps, RAG trust |
