@@ -12,6 +12,8 @@ Every entry links to the original source. Summaries give the curator's take on w
 
 | Date | Highlights |
 |------|-----------|
+| [2026-11-16](digests/2026-11-16.md) | smooth graphs lie, pool sizing, RAG reality |
+| [2026-11-15](digests/2026-11-15.md) | event lies, scheduler storms, reranker harm |
 | [2026-11-14](digests/2026-11-14.md) | pool sizing, K8s bills, RAG ceiling |
 | [2026-11-13](digests/2026-11-13.md) | silent failures, hidden bills, RAG ceiling |
 | [2026-11-12](digests/2026-11-12.md) | expired leases, pool sizing, RAG upkeep |
