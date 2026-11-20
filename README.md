@@ -12,6 +12,7 @@ Every entry links to the original source. Summaries give the curator's take on w
 
 | Date | Highlights |
 |------|-----------|
+| [2026-11-20](digests/2026-11-20.md) | outage wave, Spring prod traps, RAG stacks |
 | [2026-11-19](digests/2026-11-19.md) | outage cascades, virtual threads, RAG vs long context |
 | [2026-11-18](digests/2026-11-18.md) | event history, hidden bills, honest RAG |
 | [2026-11-17](digests/2026-11-17.md) | Microsoft outage, cloud bill teardown, RAG stress tests |
