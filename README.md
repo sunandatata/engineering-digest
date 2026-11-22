@@ -12,6 +12,8 @@ Every entry links to the original source. Summaries give the curator's take on w
 
 | Date | Highlights |
 |------|-----------|
+| [2026-11-22](digests/2026-11-22.md) | cascading outages, Spring prod traps, RAG stacks |
+| [2026-11-21](digests/2026-11-21.md) | failover traps, scaling walls, RAG failures |
 | [2026-11-20](digests/2026-11-20.md) | outage wave, Spring prod traps, RAG stacks |
 | [2026-11-19](digests/2026-11-19.md) | outage cascades, virtual threads, RAG vs long context |
 | [2026-11-18](digests/2026-11-18.md) | event history, hidden bills, honest RAG |
