@@ -12,6 +12,7 @@ Every entry links to the original source. Summaries give the curator's take on w
 
 | Date | Highlights |
 |------|-----------|
+| [2026-11-28](digests/2026-11-28.md) | silent corruption, Spring traps, RAG evals |
 | [2026-11-27](digests/2026-11-27.md) | virtual threads, multi-region, RAG ceilings |
 | [2026-11-25](digests/2026-11-25.md) | exactly-once, autoscaler traps, RAG evals |
 | [2026-11-24](digests/2026-11-24.md) | silent corruption, 82% bill cut, versioned RAG |
